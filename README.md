@@ -14,9 +14,9 @@
 - **Performance Monitoring**: Experience with tools like Nagios and Zabbix for optimizing network health.
   
   ## 🌐 Projects & Contributions
-  ## 1. **Automated VLAN Configuration**
-- Developed Python scripts for automating VLAN assignments and management.
-- Reduced manual errors and improved deployment speed.
+  ## 1. **Network Performance Dashboard**
+- Integrated Zabbix with custom scripts to build real-time performance monitoring dashboards.
+- Achieved a 20% improvement in network uptime.
 
   ### 2. **Optimized Routing Protocol Lab**
 - Simulated EIGRP/OSPF setups for educational and troubleshooting purposes.
