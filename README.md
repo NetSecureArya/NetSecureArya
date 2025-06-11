@@ -58,7 +58,7 @@ I use this GitHub space to document my projects, labs, and learnings in public �
 
 I believe in **learning in public**, and I’m here to contribute to open-source networking projects, share labs, and collaborate with learners and professionals around the world.
 
-📩 Let’s connect on [LinkedIn](https://www.linkedin.com/in/aryapatel07/)
+📩 Let’s connect on [LinkedIn](https://www.linkedin.com/in/aryapatel27/)
 📁 Check out my live labs and configs here on GitHub
 📷 Follow my journey on Instagram: `@networkingdecoded`
 
