@@ -1,27 +1,67 @@
+# 👋 Hi, I'm Arya Patel
 
-# Hi, I'm Arya 👋  
-🌟 **Network Engineer | Problem Solver | Tech Enthusiast**  
-💻 Skilled in VLANs, EtherChannel, Dynamic Routing Protocols (OSPF, EIGRP), Network Security, and Python Automation.  
-📡 Passionate about wireless networking, RF optimization, and creating efficient solutions.  
-📈 Continuously learning new technologies and advancing my career in networking.  
+🎯 **Network Engineer | CCNA Certified | Tech Problem Solver**
+💡 Passionate about building secure, scalable, and automated networks using real-world technologies and hands-on labs.
 
-## 🛠️ Skills & Expertise
-- **Networking Concepts**: Subnetting, CIDR notation, LAN/WAN design.
-- **Routing Protocols**: Expertise in EIGRP, OSPF, and dynamic routing setup.
-- **Network Security**: Firewall management, ACLs, and proactive threat mitigation.
-- **Wireless Networking**: RF optimization and configuration of LTE CPE devices.
-- **Network Automation**: Python/Ansible scripting for configuration and monitoring.
-- **Performance Monitoring**: Experience with tools like Nagios and Zabbix for optimizing network health.
-  
-  ## 🌐 Projects & Contributions
-  ## 1. **Network Performance Dashboard**
-- Integrated Zabbix with custom scripts to build real-time performance monitoring dashboards.
-- Achieved a 20% improvement in network uptime.
+I’m a **CCNA-certified network engineer** with over **2 years of experience** in enterprise environments — designing and supporting robust network infrastructures for high-impact clients like **Adani, NIXI, Amazon, and HDFC**. I specialize in **Layer 2/3 switching**, **dynamic routing protocols**, and **network automation using Python and Ansible**.
 
-  ### 2. **Optimized Routing Protocol Lab**
-- Simulated EIGRP/OSPF setups for educational and troubleshooting purposes.
-- Documented best practices for rapid convergence and network optimization.
+I use this GitHub space to document my projects, labs, and learnings in public — to grow, help others, and stay aligned with industry standards.
 
-  ## 🤝 Collaboration & Community
-- I actively contribute to open-source projects in the networking domain.  
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/aryapatel07/) or collaborate on GitHub repositories!  
+## 🛠️ Skills & Technologies
+
+### 📶 **Networking & Infrastructure**
+
+* Subnetting, VLSM, CIDR, NAT
+* VLANs, Inter-VLAN Routing, EtherChannel
+* STP, HSRP, Port Security
+* Dynamic Routing: OSPF (single & multi-area), EIGRP
+
+### 🔐 **Network Security**
+
+* ACLs, Firewalls (Zone-based), DMZ Design
+* Monitoring with Nagios, Zabbix
+
+### 🛁 **Wireless & ISP-Level Networking**
+
+* LTE CPE configuration
+* RF optimization and troubleshooting
+* ISP uplink setup and bandwidth management
+
+### ⚙️ **Automation & Tools**
+
+* Python scripting for CLI automation
+* Ansible playbooks for multi-device configuration
+* Tools: Cisco Packet Tracer, GNS3, Wireshark, EVE-NG
+
+## 🌐 Projects & Labs
+
+### 🔧 **1. Network Performance Dashboard**
+
+* Built a real-time dashboard using **Zabbix + custom scripts**
+* Reduced outage impact by improving visibility and uptime by 20%
+
+### 🛁 **2. Optimized Routing Protocol Lab**
+
+* Simulated and compared **EIGRP vs. OSPF convergence**
+* Created educational documentation and topology diagrams for troubleshooting
+
+### 🔐 **3. Secure VLAN Design for SMB**
+
+* Designed and documented a layered VLAN architecture with **ACLs + Port Security**
+* Deployed for a mock SMB to simulate enterprise-grade segmentation
+
+### 🧠 **4. Automation Toolkit (Ongoing)**
+
+* Developing reusable scripts for **network inventory, health checks**, and **config backups** using Python and Ansible
+
+## 🤝 Community & Collaboration
+
+I believe in **learning in public**, and I’m here to contribute to open-source networking projects, share labs, and collaborate with learners and professionals around the world.
+
+📩 Let’s connect on [LinkedIn](https://www.linkedin.com/in/aryapatel07/)
+📁 Check out my live labs and configs here on GitHub
+📷 Follow my journey on Instagram: `@networkingdecoded`
+
+## 🚀 My Goal
+
+To become a **Cloud + Security-focused Network Architect**, combining deep infrastructure knowledge with automation and cybersecurity best practices.
